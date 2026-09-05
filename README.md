@@ -54,5 +54,9 @@ To build a consumer-ready product rapidly, our team utilized a strict divide-and
 
 *   **Liew Lik Yi** – Lead Full-Stack & Web3 Developer 
     *(Architecture, Sui Move Contracts, zkLogin Integration, UI/UX Implementation)*
-*   **[Insert Teammate's Name]** – Product & Strategy Lead 
-    *(Market Research, Pitch Deck, Demo Video, User Flow testing)*
+*   **Nguyen Tran Thao An** – Frontend & UI/UX Developer
+    *(Responsive mobile UI (using Next.js/React and Tailwind CSS), zkLogin flow implemantation)*
+*   **Ng Lai Ying** – Product Manager & Pitch Lead
+    *(oversees project management, user flow design, and presentation preparation)*
+*   **Chai Xin Yi** – Demo & Video Lead
+    *(Testing and pre presentation preparation)*
