@@ -2,8 +2,7 @@
 > Web3 Finance, Web2 UX. Built for Sui Track 1: Payments & Stablecoins.
 
 🌍 **Live Demo:** [EquiSettle Vercel Deployment](https://equisettle-d0o0bduav-brian0406-s-projects.vercel.app/)  
-🎥 **Demo Video:** [Insert YouTube/Loom Link Here]  
-📊 **Pitch Deck:** [Insert Pitch Deck Link Here]
+🎥 **Demo Video:** [YouTube/Loom Link Here](https://youtu.be/0rdW7oORzOk) 
 
 ---
 
